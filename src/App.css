@@ -16,3 +16,13 @@ h1 {
   width: 610px;
   margin: 0 auto 0 auto;
 }
+
+.button {
+  text-align: center;
+ 
+}
+
+.counter {
+  position: absolute;
+  top: 50px;
+}
